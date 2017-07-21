@@ -7,7 +7,7 @@ from .scan.cli import scan
 from .image.cli import image
 from .registry.cli import registry
 
-log = logging.getLogger('dockerscan')
+log = logging.getLogger('dockerscan')#设置将日志输出到dockerscan文件中
 
 
 @global_options()

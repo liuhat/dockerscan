@@ -53,8 +53,8 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'dockerscan'
-copyright = u'2017, Daniel Garcia (cr0hn) / Roberto Munoz'
-author = u'Daniel Garcia (cr0hn) / Roberto Munoz'
+copyright = u'2017, liuhat / liuhat'
+author = u'liuhat / liuhat'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -373,4 +373,3 @@ epub_exclude_files = ['search.html']
 #epub_show_urls = 'inline'
 
 # If false, no index is generated.
-#epub_use_index = True
